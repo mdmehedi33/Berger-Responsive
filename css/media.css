@@ -1,0 +1,543 @@
+@media(max-width:575px) {
+    .banner_content {
+        margin-top: 10px;
+    }
+
+    .delivery {
+        margin-right: 0px;
+        margin-left: 30px;
+    }
+
+    .delivery img {
+        width: 22%;
+    }
+
+    .delivery h4 {
+        font-size: 9px;
+        color: #3d2514;
+        margin-left: 10px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .container-fluid {
+        justify-content: end !important;
+    }
+
+    .navbar-nav {
+        align-items: center;
+        border: 1px solid #3d2514;
+        background-color: #795c47;
+        border-radius: 2px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+        font-size: 14px;
+        border: 1px solid #3d2514;
+        border-radius: 2px;
+        padding: 0px 7px;
+        margin: 2px;
+        background: #3d2514;
+        color: #fff;
+    }
+
+    .burger {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .burger h4 {
+        font-size: 14px;
+        padding: 5px 6px;
+    }
+
+    .burger h1 {
+        font-size: 55px;
+    }
+
+    .burger h3 {
+        font-size: 30px;
+    }
+
+    .banner_bg {
+        width: 60%;
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50px, -50%);
+    }
+
+    .dolar {
+        height: 16%;
+        width: 26%;
+        top: 74%;
+        left: 45%;
+    }
+
+    .dolar_div {
+        height: 80%;
+        width: 80%;
+        margin: 8px 8px;
+    }
+
+    .dolar h1 {
+        font-size: 25px;
+    }
+
+    .dolar h1 sub {
+        font-size: 15px;
+        color: #fff
+    }
+
+    .dolar h2 {
+        font-size: 15px;
+        letter-spacing: 3px;
+    }
+
+    .item_section {
+        margin: 0px 0;
+    }
+
+    .text_one {
+        top: 3%;
+        padding: 5px;
+    }
+
+    .text_one h4 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+
+    .text_one h1 {
+        font-size: 25px;
+    }
+
+    .text_two {
+        top: 50%;
+        padding: 7px;
+    }
+
+    .text_two h4 {
+        font-size: 15px;
+    }
+
+    .text_two h1 {
+        font-size: 22px;
+    }
+
+    .text_three {
+        top: 77%;
+        padding: 7px;
+    }
+
+    .text_three h4 {
+        font-size: 16px;
+    }
+
+    .text_three h1 {
+        font-size: 25px;
+    }
+
+    .frist_item {
+        margin: 20px 0;
+    }
+
+    .slaiter {
+        margin: 30px 0;
+    }
+
+    .taysti_burger button {
+        padding: 4px 14px;
+        font-size: 18px;
+    }
+
+    .taysti_burger h1 {
+        font-size: 45px;
+        margin: 15px 0;
+    }
+
+    .taysti_burger p {
+        font-size: 13px;
+    }
+
+    .item {
+        margin-top: 10px;
+    }
+
+    .content h1 {
+        font-size: 30px;
+    }
+
+    .content p {
+        font-size: 13px;
+        margin: 10px 0px 15px 0;
+    }
+
+    .pera_item img {
+        width: 80%;
+    }
+
+    .pera_item {
+        margin-top: 15px;
+    }
+
+    .content button {
+        font-size: 17px;
+        padding: 1px 20px;
+    }
+
+    .contant h4 {
+        font-size: 20px;
+    }
+
+    .contant h1 {
+        font-size: 45px;
+    }
+
+    .contant {
+        margin: 10px 0;
+    }
+
+    .contact_form form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contact_from form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contact_from form {
+        margin-top: 0px;
+    }
+
+    .contact_from form button {
+        width: 100%;
+        margin-bottom: 0px;
+        font-size: 22px;
+    }
+
+    .contant_text {
+        margin: 24px 0px;
+    }
+
+    .contant_text p {
+        line-height: 22px;
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .contant_icon {
+        margin: 0px 0px auto;
+        justify-content: center;
+    }
+
+    .contant_i {
+        margin: 0px 0px;
+        justify-content: center;
+    }
+
+    .contant_i h5 {
+        padding-left: 15px;
+    }
+
+    .contant_text img {
+        width: 70%;
+        margin-left: 75px;
+    }
+
+    .footer_f h5 {
+        font-size: 18px;
+        margin-top: 15px;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .footer_s ul {
+        justify-content: center;
+        margin-right: 30px;
+    }
+
+    .footer_s ul li a {
+        font-size: 20px;
+    }
+
+    .footer_s ul li {
+        height: 30px;
+        width: 30px;
+    }
+
+}
+
+@media(max-width:767px) {
+    .banner_content {
+        margin-top: 10px;
+    }
+
+    .delivery {
+        margin-right: 0px;
+        margin-left: 30px;
+    }
+
+    .delivery img {
+        width: 22%;
+    }
+
+    .delivery h4 {
+        font-size: 12px;
+        color: #3d2514;
+        margin-left: 10px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .container-fluid {
+        justify-content: end !important;
+    }
+
+    .navbar-nav {
+        align-items: center;
+        border: 1px solid #3d2514;
+        background-color: #795c47;
+        border-radius: 2px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+        font-size: 14px;
+        border: 1px solid #3d2514;
+        border-radius: 2px;
+        padding: 0px 7px;
+        margin: 2px;
+        background: #3d2514;
+        color: #fff;
+    }
+
+    .burger {
+        margin-top: 15px;
+    }
+
+    .burger h4 {
+        font-size: 14px;
+        padding: 5px 6px;
+    }
+
+    .burger h1 {
+        font-size: 70px;
+    }
+
+    .burger h3 {
+        font-size: 35px;
+    }
+
+    .banner_bg {
+        width: 40%;
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50px, -50%);
+    }
+
+    .dolar {
+        height: 16%;
+        width: 11%;
+        top: 74%;
+        left: 47%;
+    }
+
+    .dolar_div {
+        height: 80%;
+        width: 80%;
+        margin: 8px 8px;
+    }
+
+    .dolar h1 {
+        font-size: 25px;
+    }
+
+    .dolar h1 sub {
+        font-size: 15px;
+        color: #fff
+    }
+
+    .dolar h2 {
+        font-size: 15px;
+        letter-spacing: 3px;
+    }
+
+    .item_section {
+        margin: 0px 0;
+    }
+
+    .text_one {
+        top: 3%;
+        padding: 13px;
+    }
+
+    .text_one h4 {
+        font-size: 22px;
+        margin-bottom: 3px;
+    }
+
+    .text_one h1 {
+        font-size: 35px;
+    }
+
+    .text_two {
+        top: 51%;
+        padding: 25px;
+    }
+
+    .text_two h4 {
+        font-size: 18px;
+    }
+
+    .text_two h1 {
+        font-size: 30px;
+    }
+
+    .text_three {
+        top: 77%;
+        padding: 20px;
+    }
+
+    .text_three h4 {
+        font-size: 20px;
+    }
+
+    .text_three h1 {
+        font-size: 35px;
+    }
+
+    .frist_item {
+        margin: 20px 0;
+    }
+
+    .slaiter {
+        margin: 30px 0;
+    }
+
+    .taysti_burger button {
+        padding: 3px 15px;
+        font-size: 20px;
+    }
+
+    .taysti_burger h1 {
+        font-size: 45px;
+        margin: 15px 0;
+    }
+
+    .taysti_burger p {
+        font-size: 13px;
+    }
+
+    .item {
+        margin-top: 10px;
+    }
+
+    .content h1 {
+        font-size: 35px;
+    }
+
+    .content p {
+        font-size: 16px;
+        margin: 10px 0px 15px 0;
+    }
+
+    .pera_item img {
+        width: 80%;
+    }
+
+    .pera_item {
+        margin-top: 15px;
+    }
+
+    .content button {
+        font-size: 18px;
+        padding: 4px 25px;
+    }
+
+    .contant h4 {
+        font-size: 20px;
+    }
+
+    .contant h1 {
+        font-size: 45px;
+    }
+
+    .contant {
+        margin: 10px 0;
+    }
+
+    .contact_form form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contact_from form input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .contact_from form {
+        margin-top: 0px;
+    }
+
+    .contact_from form button {
+        width: 100%;
+        margin-bottom: 0px;
+        font-size: 22px;
+    }
+
+    .contant_text {
+        margin: 24px 0px;
+    }
+
+    .contant_text p {
+        line-height: 22px;
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .contant_icon {
+        margin: 0px 0px auto;
+        justify-content: center;
+    }
+
+    .contant_i {
+        margin: 0px 0px;
+        justify-content: center;
+    }
+
+    .contant_i h5 {
+        padding-left: 15px;
+    }
+
+    .contant_text img {
+        width: 70%;
+        margin-left: 75px;
+    }
+
+    .footer_f h5 {
+        font-size: 18px;
+        margin-top: 15px;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .footer_s ul {
+        justify-content: center;
+        margin-right: 30px;
+    }
+
+    .footer_s ul li a {
+        font-size: 20px;
+    }
+
+    .footer_s ul li {
+        height: 30px;
+        width: 30px;
+    }
+
+}
+   
